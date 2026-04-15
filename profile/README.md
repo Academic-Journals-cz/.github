@@ -7,8 +7,8 @@ Projekt je založen na otevřeném memorandu o spolupráci mezi Univerzitou Karl
 Memorandum vytváří společný rámec spolupráce v oblasti infrastruktury a služeb pro vydávání akademických časopisů. Je koncipováno jako otevřená iniciativa, která umožňuje zapojení dalších univerzit a akademických institucí do rozvoje platformy.
 
 ## Zapojené univerzity
-- Univerzita Karlova (nakladatelství Karolinum)
-- Univerzita Palackého v Olomouci (Vydavatelství Univerzity Palackého)
+- Univerzita Karlova (nakladatelství Karolinum, ředitel Petr Valo)
+- Univerzita Palackého v Olomouci (Vydavatelství Univerzity Palackého, ředitel Aleš Prstek)
 
 ## Technický dozor a koordinátor
 - Radek Gomola (Univerzita Karlova, Univerzita Palackého v Olomouci)
@@ -27,8 +27,8 @@ The project is based on an open memorandum of cooperation between Charles Univer
 The memorandum establishes a shared framework for cooperation in the field of academic journal publishing infrastructure and services. It is designed as an open initiative, allowing other universities and academic institutions to join and participate in the development of the platform.
 
 ## Universities involved
-- Charles University (Karolinum Press)
-- Palacký University Olomouc (Palacký University Press)
+- Charles University (Karolinum Press, Petr Valo director)
+- Palacký University Olomouc (Palacký University Press, Aleš Prstek director)
 
 ## Technical supervisor and coordinator
 - Radek Gomola (Charles University, Palacký University Olomouc)
