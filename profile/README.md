@@ -1,4 +1,4 @@
-# Academic-journals.cz (CZ verze)
+# Academic-Journals.CZ (CZ verze)
 
 Academic-journals.cz je společné pracovní prostředí pro vývoj a správu platformy Academic Journals určené pro české vědecké časopisy. Cílem projektu je podpořit česká akademická nakladatelství a redakční týmy prostřednictvím sdílené infrastruktury a nástrojů pro vydávání a správu odborných časopisů.
 
